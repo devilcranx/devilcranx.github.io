@@ -31,6 +31,16 @@ self.addEventListener('install', function(event) {
   );
 });
 
+self.addEventListener('push', function (event) {
+  if (event && event.data) {
+    const data = event.data.json();
+    event.waitUntil(self.registration.showNotification(data.title, {
+      body: data.body,
+      icon: data.icon || null
+    });
+  }
+});
+
 self.addEventListener('fetch', function(event) {
   event.respondWith(caches.match(event.request).then(function(response) {
     //console.log('requset:', event.request);

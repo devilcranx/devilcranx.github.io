@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="027a7e9e-7b7b-47eb-bf27-8a8a940e56c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw-test/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw-test/sw.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,28 +16,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sw.js">
+        <entry file="file://$PROJECT_DIR$/sw-test/sw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="525">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image-list.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-888" />
           </provider>
         </entry>
       </file>
@@ -50,6 +33,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sw.js" />
+        <option value="$PROJECT_DIR$/sw-test/sw.js" />
       </list>
     </option>
   </component>
@@ -81,6 +65,11 @@
               <item name="devilcranx.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="devilcranx.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="devilcranx.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devilcranx.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="sw-test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -89,6 +78,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -116,12 +106,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569494541962</updated>
-      <workItem from="1569494543078" duration="183000" />
+      <workItem from="1569494543078" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183000" />
+    <option name="totallyTimeSpent" value="619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1995" y="26" width="1759" height="1018" extended-state="0" />
@@ -168,8 +158,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="105">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sw-test/sw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>

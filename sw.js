@@ -18,6 +18,8 @@ self.addEventListener('install', function(event) {
 
 self.addEventListener('fetch', function(event) {
   event.respondWith(caches.match(event.request).then(function(response) {
+    console.log('requset:', event.request);
+    console.log('response:', response);
     // caches.match() always resolves
     // but in case of success response will have value
     if (response !== undefined) {

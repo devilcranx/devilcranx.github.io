@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="027a7e9e-7b7b-47eb-bf27-8a8a940e56c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sw-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sw-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw-test/image-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw-test/image-list.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sw-test/sw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="525">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -28,20 +29,24 @@
         <entry file="file://$PROJECT_DIR$/sw-test/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="19" column="95" selection-start-line="19" selection-start-column="95" selection-end-line="19" selection-end-column="95" />
+              <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sw-test/image-list.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sw-test/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="-372">
               <caret line="26" column="20" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
@@ -64,6 +69,7 @@
         <option value="$PROJECT_DIR$/sw.js" />
         <option value="$PROJECT_DIR$/sw-test/sw.js" />
         <option value="$PROJECT_DIR$/sw-test/index.html" />
+        <option value="$PROJECT_DIR$/sw-test/image-list.js" />
       </list>
     </option>
   </component>
@@ -78,8 +84,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1995" />
-    <option name="y" value="26" />
+    <option name="x" value="1985" />
+    <option name="y" value="25" />
     <option name="width" value="1759" />
     <option name="height" value="1018" />
   </component>
@@ -136,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569494541962</updated>
-      <workItem from="1569494543078" duration="1422000" />
+      <workItem from="1569494543078" duration="2774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1422000" />
+    <option name="totallyTimeSpent" value="2774000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +159,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1995" y="26" width="1759" height="1018" extended-state="0" />
+    <frame x="1985" y="25" width="1759" height="1018" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -204,25 +210,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sw-test/sw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="525">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sw-test/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sw-test/image-list.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sw-test/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="672">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sw-test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="95" selection-start-line="19" selection-start-column="95" selection-end-line="19" selection-end-column="95" />
+          <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
         </state>
       </provider>
     </entry>
